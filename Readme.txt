@@ -1,1 +1,1 @@
-To start the project: npm run dev
+Transaction system for an institute using blockchain, where the users can perform transactions. It also provides access to all user's previous transactions being made, with the help of blockchain technology making it easier to fetch any details
